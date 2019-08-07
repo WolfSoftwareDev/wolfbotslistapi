@@ -1,4 +1,4 @@
-module.exports.getVotes = (id, botid, token) => {
+module.exports.Votecount = (id, botid, token) => {
     var data = get('https://wolfbotslist/api/getvotes/' + id + '/' + botid + '/' + token)
     return(data)
 }
