@@ -1,0 +1,23 @@
+{
+  "name": "wolf-bots-list-api",
+  "version": "1.0.0",
+  "description": "This is the api for the wolf bots list",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolfSoftwareDev/wolfbotslistapi.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "[WSD]One K./Nathaniel Wilkins",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/WolfSoftwareDev/wolfbotslistapi/issues"
+  },
+  "homepage": "https://github.com/WolfSoftwareDev/wolfbotslistapi#readme"
+}
