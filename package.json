@@ -1,6 +1,6 @@
 {
   "name": "wolf-bots-list-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is the api for the wolf bots list",
   "main": "server.js",
   "scripts": {
