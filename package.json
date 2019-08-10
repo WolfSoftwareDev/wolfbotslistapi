@@ -1,6 +1,6 @@
 {
   "name": "wolf-bots-list-api",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "This is the api for the wolf bots list",
   "main": "server.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/WolfSoftwareDev/wolfbotslistapi#readme",
   "dependencies": {
-    "request": "^2.88.0"
+    "http": "0.0.0"
   }
 }
